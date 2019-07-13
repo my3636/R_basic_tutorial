@@ -1,0 +1,173 @@
+{
+  "version": "1",
+  "title": "R语言编程基础",
+  "author": "admin",
+  "description": "R基本环境 R包 查看帮助 定义变量 变量赋值 定义向量 定义数组 定义数据框 定义函数 条件判断语句 循环语句 可视化语句 实验报告（三） 实验报告（一） 实验报告（二） ",
+  "scenarios": [
+    {
+      "title": "实验一：R基本环境",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验一：R基本环境",
+          "text": "scenarios/实验一：R基本环境.md"
+        }
+      ]
+    },
+    {
+      "title": "实验二：R包",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验二：R包",
+          "text": "scenarios/实验二：R包.md"
+        }
+      ]
+    },
+    {
+      "title": "实验三：查看帮助",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验三：查看帮助",
+          "text": "scenarios/实验三：查看帮助.md"
+        }
+      ]
+    },
+    {
+      "title": "实验四：定义变量",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验四：定义变量",
+          "text": "scenarios/实验四：定义变量.md"
+        }
+      ]
+    },
+    {
+      "title": "实验五：变量赋值",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验五：变量赋值",
+          "text": "scenarios/实验五：变量赋值.md"
+        }
+      ]
+    },
+    {
+      "title": "实验六：定义向量",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验六：定义向量",
+          "text": "scenarios/实验六：定义向量.md"
+        }
+      ]
+    },
+    {
+      "title": "实验七：定义数组",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验七：定义数组",
+          "text": "scenarios/实验七：定义数组.md"
+        }
+      ]
+    },
+    {
+      "title": "实验八：定义数据框",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验八：定义数据框",
+          "text": "scenarios/实验八：定义数据框.md"
+        }
+      ]
+    },
+    {
+      "title": "实验九：定义函数",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验九：定义函数",
+          "text": "scenarios/实验九：定义函数.md"
+        }
+      ]
+    },
+    {
+      "title": "实验十：条件判断语句",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验十：条件判断语句",
+          "text": "scenarios/实验十：条件判断语句.md"
+        }
+      ]
+    },
+    {
+      "title": "实验十一：循环语句",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验十一：循环语句",
+          "text": "scenarios/实验十一：循环语句.md"
+        }
+      ]
+    },
+    {
+      "title": "实验十二：可视化语句",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "实验十二：可视化语句",
+          "text": "scenarios/实验十二：可视化语句.md"
+        }
+      ]
+    },
+    {
+      "title": "作业3",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "作业3",
+          "text": "scenarios/作业3.md"
+        }
+      ]
+    },
+    {
+      "title": "作业1",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "作业1",
+          "text": "scenarios/作业1.md"
+        }
+      ]
+    },
+    {
+      "title": "作业2",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio",
+      "steps": [
+        {
+          "preload": "scripts/pre.sh",
+          "title": "作业2",
+          "text": "scenarios/作业2.md"
+        }
+      ]
+    }
+  ]
+}
