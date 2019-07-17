@@ -12,6 +12,8 @@
           "preload": "scripts/pre.sh",
           "title": "实验一：R基本环境",
           "text": "scenarios/实验一：R基本环境.md"
+		  "program": "scripts/pre.sh",
+          "extraTab": "[domain]:[:5678]/desktop.html"
         }
       ]
     },
