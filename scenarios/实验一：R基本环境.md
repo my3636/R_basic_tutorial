@@ -10,11 +10,12 @@ R是一套完整的数据处理、计算和制图软件系统。其功能包括�
 
 R可以在[CRAN](http://cran.r-project.org/)（Comprehensive R Archive Network）上免费下载。此外，为了提高书写和执行的简便性以及方便用户调试程序，可以下载GUI（图形用户界面）来使用，比较流行的诸如R Commander， Rattle， RStudio等，本教程主要介绍RStudio。
 
-点击屏幕右上角Application Menu -&gt; development -&gt; rstudio,打开实验环境
+双击桌面的“rstudio”图标，打开实验环境
+
+登录，Username和Password都是guest
 
 RStudio界面的概览如下图所示：
-
-![](https://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-bigdata/1-1-1-1_20171107060508.008.jpg)
+![](/images/1-1-1-1.jpg)
 
 如上图所示，RStudio分为4个区域，分别是：
 
@@ -24,7 +25,7 @@ RStudio界面的概览如下图所示：
 * Console：显示执行R语句的历史信息和输出，获得帮助信息
 
 R语言的语法简单明了，例如，在Console输入语句plot\(AirPassengers\)可以在Plots输出折线图：
-![](https://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-bigdata/1-1-1-2_20171107060834.034.png)
-在Console输入语句hist\(mtcars$mpg\)可以在Plots输出直方图：
+![](/images/1-1-1-2.png)
 
-![](https://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-bigdata/1-1-1-3_20171107060934.034.png)
+在Console输入语句hist\(mtcars$mpg\)可以在Plots输出直方图：
+![](/images/1-1-1-3.png)

@@ -19,16 +19,16 @@ R自带了一系列默认包（包括base、datasets、utils、grDevices、graph
 可以在RStudio右下方点击packages，再点击install，在对话框中输入包名下载安装包。
 
 代码install.packages\("e1071"\)安装包e1071：
-![](https://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-bigdata/1-1-2-1_20171107054127.027.png)
+![](/image/1-1-2-1.png)
 
 ## 2、包的载入
 
 包的安装是指从某个CRAN镜像站点下载它并将其放入库中的过程。要在R会话中使用它，还需要使用library\(\)命令载入这个包。例如，要使用gclus包，执行命令library\(gclus\)即可。当然，在载入一个包之前必须已经安装了这个包。在一个会话中，包只需载入一次。如果需要，你可以自定义启动环境以自动载入会频繁使用的那些包。
-![](https://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-bigdata/1-1-2-2_20171107054439.039.png)
+![](/image/1-1-2-2_20171107054439.039.png)
 
 ## 3、包的使用方法
 
 载入一个包之后，就可以使用一系列新的函数和数据集了。包中往往提供了演示性的小型数据集和示例代码，能够让我们尝试这些新功能。帮助系统包含了每个函数的一个描述（同时带有示例），每个数据集的信息也被包括其中。命令help\(package="package\_name"\)可以输出某个包的简短描述以及包中的函数名称和数据集名称的列表。使用函数help\(\)可以查看其中任意函数或数据集的更多细节。这些信息也能以PDF帮助手册的形式从CRAN下载。
 
 例如代码help\(package="ggplot2"\)可以输出包ggplot2的信息：
-![](https://kfcoding-static.oss-cn-hangzhou.aliyuncs.com/gitcourse-bigdata/1-1-2-3_20171107055214.014.png)
+![](/image/1-1-2-3.png)
