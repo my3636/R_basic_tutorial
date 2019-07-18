@@ -65,7 +65,7 @@
           "preload": "scripts/pre.sh",
           "title": "实验五：变量赋值",
           "text": "scenarios/实验五：变量赋值.md",
-		  "program": "scripts/program.sh",
+		  "program": "scripts/pre.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
         }
       ]
