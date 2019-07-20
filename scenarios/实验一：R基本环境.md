@@ -10,9 +10,9 @@ R是一套完整的数据处理、计算和制图软件系统。其功能包括�
 
 R可以在[CRAN](http://cran.r-project.org/)（Comprehensive R Archive Network）上免费下载。此外，为了提高书写和执行的简便性以及方便用户调试程序，可以下载GUI（图形用户界面）来使用，比较流行的诸如R Commander， Rattle， RStudio等，本教程主要介绍RStudio。
 
-双击桌面的“rstudio”图标，打开实验环境
+双击桌面的“rstudio”图标，打开实验环境。
 
-登录，Username和Password都是guest
+登录，Username和Password都是guest。
 
 RStudio界面的概览如下图所示：
 ![](/images/1-1-1-1.jpg)
