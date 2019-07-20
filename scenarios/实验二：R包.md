@@ -12,6 +12,8 @@ R自带了一系列默认包（包括base、datasets、utils、grDevices、graph
 
 点击屏幕右上角Application Menu -&gt; development -&gt; rstudio,打开实验环境
 
+双击桌面的“rstudio”图标，打开实验环境
+
 ## 1、包的安装
 
 有许多R函数可以用来管理包。第一次安装一个包，使用命令install.packages\(\)即可。查询自己想安装的包的名称，可以直接将包名作为参数提供给这个函数。例如，包gclus中提供了建增强型散点图的函数。可以使用命令install.packages\("gclus"\)来下载和安装它。一个包仅需安装一次。但和其他软件类似，包经常被其作者更新。使用命令update.packages\(\)可以更新已经安装的包。同时，也
