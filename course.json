@@ -12,7 +12,7 @@
         {
           "title": "实验一：R基本环境",
           "text": "scenarios/实验一：R基本环境.md",
-		  "program": "scripts/program.sh",
+		  "program": "scripts/pre.sh",
           "extraTab": "[domain]:[:5678]/desktop.html"
         }
       ]
@@ -26,7 +26,7 @@
           "title": "实验二：R包",
           "text": "scenarios/实验二：R包.md",
 		  "program": "scripts/program.sh",
-          "extraTab": "[domain]:[:5678]/desktop.html"
+          "extraTab": "[domain]:[:8888]/desktop.html"
         }
       ]
     },
