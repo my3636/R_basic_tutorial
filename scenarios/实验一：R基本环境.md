@@ -12,7 +12,9 @@ R可以在[CRAN](http://cran.r-project.org/)（Comprehensive R Archive Network�
 
 关于虚拟机操作上的一点说明：退格键不能直接按Backspace，否则会退到网页的上一层。若输错内容想删除，则按Alt + Backspace。
 
-双击桌面的“rstudio”图标，打开实验环境。
+打开本教程后，右侧会出现Panel的界面，需要耐心等待一会儿。
+
+Panel界面打开后，双击桌面的“rstudio”图标，打开实验环境。
 
 登录，Username和Password都是guest。
 

@@ -15,11 +15,9 @@ R自带了一系列默认包（包括base、datasets、utils、grDevices、graph
 
 ## 1、包的安装
 
-有许多R函数可以用来管理包。第一次安装一个包，使用命令install.packages\(\)即可。查询自己想安装的包的名称，可以直接将包名作为参数提供给这个函数。例如，包gclus中提供了建增强型散点图的函数。可以使用命令install.packages\("gclus"\)来下载和安装它。一个包仅需安装一次。但和其他软件类似，包经常被其作者更新。使用命令update.packages\(\)可以更新已经安装的包。同时，也
+有许多R函数可以用来管理包。第一次安装一个包，使用命令install.packages\(\)即可。查询自己想安装的包的名称，可以直接将包名作为参数提供给这个函数。例如，包gclus中提供了建增强型散点图的函数。可以使用命令install.packages\("gclus"\)来下载和安装它。一个包仅需安装一次。但和其他软件类似，包经常被其作者更新。使用命令update.packages\(\)可以更新已经安装的包。同时，也可以在RStudio右下方点击packages，再点击install，在对话框中输入包名下载安装包。
 
-可以在RStudio右下方点击packages，再点击install，在对话框中输入包名下载安装包。
-
-代码install.packages\("e1071"\)安装包e1071：
+代码install.packages\("e1071"\)表示安装包e1071：
 ![](/images/1-1-2-1.png)
 
 ## 2、包的载入
